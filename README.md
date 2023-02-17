@@ -16,7 +16,7 @@ Ji, R., Li, J., **He, W.**, Ren, J. and Jiang, X., *Dual-Stream Siamese Vision T
 
 **He, W.**, Zhang, J., Ren, J., Bai, R. and Jiang, X., *Hierarchical ConViT with Attention-based Relational Reasoner for Visual Analogical Reasoning*. AAAI Conference on Artificial Intelligence (AAAI), 2023. [[Paper](https://drive.google.com/file/d/1NXSt0GSktbz62kk-L61DxOjzcXMtQHR4/view?usp=sharing)] [[Supplementary](https://drive.google.com/file/d/1JlIRvlWm6XLhi0y-IW5W5bei4eqXNONO/view?usp=sharing)] [[Code](https://github.com/wentaoheunnc/HCV-ARR)] [[Video](https://drive.google.com/file/d/1ZiwTPw2T0QUBcVJRh8Q7mvpN2pf3wECW/view?usp=sharing)] [[Poster](https://drive.google.com/file/d/1dr70H58dDlsY49k7O0-FdkLFJaVMelIN/view?usp=sharing)] 
 
-Chen, S., **He, W.**, Ren, J. and Jiang, X., *Attention-based Dual-stream Vision Transformer for Radar Gait Recognition*. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3668-3672, 2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9746565)]
+Chen, S., **He, W.**, Ren, J. and Jiang, X., *Attention-based Dual-stream Vision Transformer for Radar Gait Recognition*. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3668-3672, 2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9746565)] [[Slides](https://docs.google.com/presentation/d/1VC4BMBAEuuXl5Uxp6rM_AHdX-aJDibki/edit?usp=share_link&ouid=113760719120016002761&rtpof=true&sd=true)]
 
 Liu, J., Ren, J., Lu, Z., **He, W.**, Cui, M., Zhang, Z. and Bai, R., *Cross-document Attention-based Gated Fusion Network for Automated Medical Licensing Exam*. Expert Systems with Applications, 205, p.117588, 2022. [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417422009009)]
 
