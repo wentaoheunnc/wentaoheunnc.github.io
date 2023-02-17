@@ -32,3 +32,11 @@ C. Yao, S. Wang, J. Zhang, **W. He**, H. Du, J. Ren, R. Bai and J. Liu, *rPPG-Ba
 I serve/served as: 
 
 * Journal reviewer: Expert System with Applications (ESWA), The Visual Computer (TVCJ)
+
+## Teaching
+
+* Spring semester, 2022-2023, Teaching assistant, COMP2051: Artificial Intelligence Methods, UNNC
+* Autumn semester, 2022-2023, Teaching assistant, COMP1038: Programming and Algorithms, UNNC
+* Spring semester, 2021-2022, Teaching assistant, COMP2047: Introduction to Image Processing, UNNC
+* Autumn semester, 2021-2022, Teaching assistant, COMP2046: Operating Systems & Concurrency, UNNC
+* Autumn semester, 2021-2022, Teaching assistant, COMP1036: Computer Fundamentals, UNNC
