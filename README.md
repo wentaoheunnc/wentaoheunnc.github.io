@@ -5,9 +5,11 @@
 
 My research interests include but are not limited to:
 
-* Computer vision: Visual reasoning, Analoginal reasoning
-* Signal processing: Radar target detection
-* Operation research: Optimization
+Computer vision: Visual reasoning, Analoginal reasoning
+
+Signal processing: Radar target identification
+
+Operation research: Computational optimization
 
 [[CV]()] [[Email](mailto:scxwh1@nottingham.edu.cn)] [[Google Scholar](https://scholar.google.com/citations?user=1DkLwPQAAAAJ&hl=en)]
 
