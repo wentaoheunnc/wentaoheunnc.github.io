@@ -5,13 +5,13 @@
 
 My research interests include but are not limited to:
 
-* Computer vision: Visual reasoning, Analoginal reasoning
+* Computer vision: Visual analoginal reasoning
 * Signal processing: Radar gait recognition
 * Operation research: Computational optimization
 
 [[CV]()] [[Email](mailto:scxwh1@nottingham.edu.cn)] [[Google Scholar](https://scholar.google.com/citations?user=1DkLwPQAAAAJ&hl=en)]
 
-## Publication
+## Publications
 
 * R. Ji, J. Li, **W. He**, J. Ren and X. Jiang, *Dual-Stream Siamese Vision Transformer with Mutual Attention for Radar Gait Verification*. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
 
