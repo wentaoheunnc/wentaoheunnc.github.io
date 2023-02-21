@@ -35,6 +35,6 @@ I serve/served as:
 
 * Spring semester, 2022-2023, COMP2051: Artificial Intelligence Methods, UNNC
 * Autumn semester, 2022-2023, COMP1038: Programming and Algorithms, UNNC
-* Spring semester, 2021-2022, COMP2047: Introduction to Image Processing, UNNC
+* Spring semester, 2021-2023, COMP2047: Introduction to Image Processing, UNNC
 * Autumn semester, 2021-2022, COMP2046: Operating Systems & Concurrency, UNNC
 * Autumn semester, 2021-2022, COMP1036: Computer Fundamentals, UNNC
