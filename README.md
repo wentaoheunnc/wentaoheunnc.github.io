@@ -13,7 +13,7 @@ My research interests include but are not limited to:
 
 ## Publications
 
-* **W. He**, J. Ren and R. Bai, *Data Augmentation by Morphological Mixup for Solving Raven's Progressive Matrices*. The Visual Computer (TVCJ), DOI: [https://doi.org/10.1007/s00371-023-02930-x](https://doi.org/10.1007/s00371-023-02930-x) 2023. [[Paper](https://link.springer.com/article/10.1007/s00371-023-02930-x)]
+* **W. He**, J. Ren and R. Bai, *Data Augmentation by Morphological Mixup for Solving Raven's Progressive Matrices*. The Visual Computer (TVCJ), DOI: [https://doi.org/10.1007/s00371-023-02930-x](https://doi.org/10.1007/s00371-023-02930-x), 2023. [[Paper](https://link.springer.com/article/10.1007/s00371-023-02930-x)]
 
 * R. Ji, J. Li, **W. He**, J. Ren and X. Jiang, *Dual-Stream Siamese Vision Transformer with Mutual Attention for Radar Gait Verification*. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10095141)]
 
