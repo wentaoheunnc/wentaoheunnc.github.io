@@ -1,7 +1,7 @@
 
 # Wentao He
 
-<img align="right" src="profile/hwt.jpg" width="220px"> I am currently a Ph.D. candidate from the School of Computer Science, University of Nottingham Ningbo China (UNNC), advised by [Dr. Jianfeng Ren](https://research.nottingham.edu.cn/en/persons/jianfeng-ren) and [Prof. Ruibin Bai](http://www.cs.nott.ac.uk/~znzbrbb/), with the scholarship by Microsoft Research Asia (MSRA). I also receive intensive guidance by [Prof. Xudong Jiang](https://personal.ntu.edu.sg/exdjiang/default.htm) (F-IEEE) from Nanyang Technological University (NTU). I obtained the M.Sc. from Imperial College London, U.K., in 2019, supervised by [Dr. Stamatia Giannarou](https://www.imperial.ac.uk/people/stamatia.giannarou), and the B.Sc. from UNNC in 2018. 
+<img align="right" src="profile/hwt.jpg" width="220px"> I am currently a Ph.D. candidate from the School of Computer Science, University of Nottingham Ningbo China (UNNC), advised by [Dr. Jianfeng Ren](https://research.nottingham.edu.cn/en/persons/jianfeng-ren), [Prof. Ruibin Bai](http://www.cs.nott.ac.uk/~znzbrbb/) and [Prof. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/?from=https://research.microsoft.com/users/tyliu&type=exact) (F-IEEE), with the scholarship by Microsoft Research Asia (MSRA). I also receive intensive guidance by [Prof. Xudong Jiang](https://personal.ntu.edu.sg/exdjiang/default.htm) (F-IEEE) from Nanyang Technological University (NTU). I obtained the M.Sc. from Imperial College London, U.K., in 2019, supervised by [Dr. Stamatia Giannarou](https://www.imperial.ac.uk/people/stamatia.giannarou), and the B.Sc. from UNNC in 2018. 
 
 My research interests include but are not limited to:
 
