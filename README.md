@@ -32,6 +32,7 @@ My research interests include but are not limited to:
 I serve/served as: 
 
 * Journal reviewer: Expert System with Applications (ESWA), The Visual Computer (TVCJ)
+* Conference reviewer: ICASSP 2024
 
 ## Teaching Activities
 
