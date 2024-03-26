@@ -13,7 +13,7 @@ My research interests include but are not limited to:
 
 ## Publications
 
-* **W. He**, Y. Yan, J. Ren, R. Bai and X. Jiang, *Multi-View Spectrogram Transformer for Respiratory Sound Classification*. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. 
+* **W. He**, Y. Yan, J. Ren, R. Bai and X. Jiang, *Multi-View Spectrogram Transformer for Respiratory Sound Classification*. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 8626-8630, 2024. 
 
 * J. Zhang, X. Yang, **W. He**, J. Ren, Q. Zhang, Y. Zhao, R. Bai, X. He and J. Liu, *Scale Optimization Using Evolutionary Reinforcement Learning for Object Detection on Drone Imagery*. AAAI Conference on Artificial Intelligence (AAAI), 2024.
 
