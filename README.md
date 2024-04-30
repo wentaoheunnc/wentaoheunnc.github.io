@@ -17,7 +17,7 @@ My research interests include but are not limited to:
 
 * J. Zhang, X. Yang, **W. He**, J. Ren, Q. Zhang, Y. Zhao, R. Bai, X. He and J. Liu, *Scale Optimization Using Evolutionary Reinforcement Learning for Object Detection on Drone Imagery*. AAAI Conference on Artificial Intelligence (AAAI), 38(1), pp. 410-418, 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27795)]
 
-* **W. He**, J. Ren and R. Bai, *Data Augmentation by Morphological Mixup for Solving Raven's Progressive Matrices*. The Visual Computer (TVCJ), DOI: [10.1007/s00371-023-02930-x](https://doi.org/10.1007/s00371-023-02930-x), 2023. [[Paper](https://link.springer.com/article/10.1007/s00371-023-02930-x)]
+* **W. He**, J. Ren and R. Bai, *Data Augmentation by Morphological Mixup for Solving Raven's Progressive Matrices*. The Visual Computer (TVCJ), 40, pp. 2457–2470, 2024. [[Paper](https://link.springer.com/article/10.1007/s00371-023-02930-x)]
 
 * R. Ji, J. Li, **W. He**, J. Ren and X. Jiang, *Dual-Stream Siamese Vision Transformer with Mutual Attention for Radar Gait Verification*. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10095141)]
 
