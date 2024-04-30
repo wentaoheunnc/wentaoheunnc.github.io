@@ -15,7 +15,7 @@ My research interests include but are not limited to:
 
 * **W. He**, Y. Yan, J. Ren, R. Bai and X. Jiang, *Multi-View Spectrogram Transformer for Respiratory Sound Classification*. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 8626-8630, 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10445825)] [[Code](https://github.com/wentaoheunnc/MVST)] [[Poster](https://drive.google.com/drive/folders/1nm0wOl78OMhVn8lbMjjNN7XgVOD8ecbX?usp=sharing)]
 
-* J. Zhang, X. Yang, **W. He**, J. Ren, Q. Zhang, Y. Zhao, R. Bai, X. He and J. Liu, *Scale Optimization Using Evolutionary Reinforcement Learning for Object Detection on Drone Imagery*. AAAI Conference on Artificial Intelligence (AAAI), 38(1), pp. 410-418, 2024.
+* J. Zhang, X. Yang, **W. He**, J. Ren, Q. Zhang, Y. Zhao, R. Bai, X. He and J. Liu, *Scale Optimization Using Evolutionary Reinforcement Learning for Object Detection on Drone Imagery*. AAAI Conference on Artificial Intelligence (AAAI), 38(1), pp. 410-418, 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27795)]
 
 * **W. He**, J. Ren and R. Bai, *Data Augmentation by Morphological Mixup for Solving Raven's Progressive Matrices*. The Visual Computer (TVCJ), DOI: [10.1007/s00371-023-02930-x](https://doi.org/10.1007/s00371-023-02930-x), 2023. [[Paper](https://link.springer.com/article/10.1007/s00371-023-02930-x)]
 
@@ -36,7 +36,7 @@ My research interests include but are not limited to:
 I serve/served as: 
 
 * Journal reviewer: Expert System with Applications (ESWA), The Visual Computer (TVCJ)
-* Conference reviewer: ICASSP 2024
+* Conference reviewer: MM 2024, ICASSP 2024
 
 ## Teaching Activities
 
