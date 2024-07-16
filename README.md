@@ -1,7 +1,7 @@
 
 # Wentao He
 
-<img align="right" src="profile/hwt.jpg" width="220px"> I am currently a Ph.D. candidate from the School of Computer Science, University of Nottingham Ningbo China (UNNC), advised by [Dr. Jianfeng Ren](https://research.nottingham.edu.cn/en/persons/jianfeng-ren), [Prof. Ruibin Bai](http://www.cs.nott.ac.uk/~znzbrbb/) and [Prof. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/?from=https://research.microsoft.com/users/tyliu&type=exact) (F-IEEE), with the scholarship by Microsoft Research Asia (MSRA). I also receive intensive guidance by [Prof. Xudong Jiang](https://personal.ntu.edu.sg/exdjiang/default.htm) (F-IEEE) from Nanyang Technological University (NTU). I obtained the M.Sc. from Imperial College London, U.K., in 2019, supervised by [Dr. Stamatia Giannarou](https://www.imperial.ac.uk/people/stamatia.giannarou), and the B.Sc. from UNNC in 2018. 
+<img align="right" src="profile/hwt.jpg" width="220px"> I am currently a Ph.D. candidate from the School of Computer Science, University of Nottingham Ningbo China (UNNC), advised by [Dr. Jianfeng Ren](https://research.nottingham.edu.cn/en/persons/jianfeng-ren), [Prof. Ruibin Bai](http://www.cs.nott.ac.uk/~znzbrbb/) and [Prof. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/?from=https://research.microsoft.com/users/tyliu&type=exact) (F-IEEE), with the scholarship by Microsoft Research Asia (MSRA). I was a visiting PhD student in Nanyang Technological University (NTU) in 2024, supervised by [Prof. Xudong Jiang](https://personal.ntu.edu.sg/exdjiang/default.htm) (F-IEEE). I obtained the M.Sc. from Imperial College London, U.K., in 2019, supervised by [Dr. Stamatia Giannarou](https://www.imperial.ac.uk/people/stamatia.giannarou), and the B.Sc. from UNNC in 2018. 
 
 My research interests include but are not limited to:
 
@@ -12,6 +12,8 @@ My research interests include but are not limited to:
 [[CV]()] [[Email](mailto:scxwh1@nottingham.edu.cn)] [[Google Scholar](https://scholar.google.com/citations?user=1DkLwPQAAAAJ&hl=en)]
 
 ## Publications
+
+* **W. He**, J. Ren, R. Bai and X. Jiang, *Hierarchical Perceptual and Predictive Analogy-Inference Network for Abstract Visual Reasoning*. ACM International Conference on Multimedia (ACM MM), 2024.
 
 * **W. He**, Y. Yan, J. Ren, R. Bai and X. Jiang, *Multi-View Spectrogram Transformer for Respiratory Sound Classification*. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 8626-8630, 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10445825)] [[Code](https://github.com/wentaoheunnc/MVST)] [[Poster](https://drive.google.com/drive/folders/1nm0wOl78OMhVn8lbMjjNN7XgVOD8ecbX?usp=sharing)]
 
