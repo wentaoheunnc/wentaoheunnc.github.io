@@ -39,7 +39,7 @@ I serve/served as:
 
 * Program Committee for AAAI 2025
 * Invited reviewer for ACM MM 2024
-* Invited reviewer for ICASSP 2024
+* Invited reviewer for ICASSP 2024, 2025
 * Invited reviewer for Expert System with Applications (ESWA)
 * Invited reviewer for The Visual Computer (TVCJ)
 
