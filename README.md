@@ -11,11 +11,19 @@ My research interests include but are not limited to:
 
 [[CV]()] [[Email](mailto:scxwh1@nottingham.edu.cn)] [[Google Scholar](https://scholar.google.com/citations?user=1DkLwPQAAAAJ&hl=en)]
 
+## News 
+* [Nov. 2024] I obtain my Ph.D. degree and will join Ningbo University as a faculty member.
+* [Oct. 2024] Two Papers are accepted by PR.
+* [Jul. 2024] One Paper is accepted by MM'24.
+* [Dec. 2023] One Paper is accepted by AAAI'24.
+* [Nov. 2022] One paper is accepted by AAAI'23.
+* [Apr. 2022] One paper is accepted by ESWA.
+
 ## Publications
 
 * **W. He**, J. Ren, R. Bai and X. Jiang, *Radar gait recognition using Dual-branch Swin Transformer with Asymmetric Attention Fusion*. Pattern Recognition, pp. 111101, DOI: [10.1016/j.patcog.2024.111101](https://doi.org/10.1016/j.patcog.2024.111101), 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324008525)] [[Data](https://github.com/wentaoheunnc/NTU-RGR)]
 
-* **W. He**, J. Ren, R. Bai and X. Jiang, *Hierarchical Perceptual and Predictive Analogy-Inference Network for Abstract Visual Reasoning*. ACM International Conference on Multimedia (ACM MM), 2024.
+* **W. He**, J. Ren, R. Bai and X. Jiang, *Hierarchical Perceptual and Predictive Analogy-Inference Network for Abstract Visual Reasoning*. ACM International Conference on Multimedia (ACM MM), pp. 4841-4850, 2024. [[Paper](https://dl.acm.org/doi/proceedings/10.1145/3664647)] [[Code]()] [[Poster]()]
 
 * **W. He**, Y. Yan, J. Ren, R. Bai and X. Jiang, *Multi-View Spectrogram Transformer for Respiratory Sound Classification*. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 8626-8630, 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10445825)] [[Code](https://github.com/wentaoheunnc/MVST)] [[Poster](https://drive.google.com/drive/folders/1nm0wOl78OMhVn8lbMjjNN7XgVOD8ecbX?usp=sharing)]
 
