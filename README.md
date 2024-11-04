@@ -13,6 +13,8 @@ My research interests include but are not limited to:
 
 ## Publications
 
+* **W. He**, J. Ren, R. Bai and X. Jiang, *Radar gait recognition using Dual-branch Swin Transformer with Asymmetric Attention Fusion*. Pattern Recognition, pp. 111101, DOI: [10.1016/j.patcog.2024.111101](https://doi.org/10.1016/j.patcog.2024.111101), 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324008525)] [[Data](https://github.com/wentaoheunnc/NTU-RGR)]
+
 * **W. He**, J. Ren, R. Bai and X. Jiang, *Hierarchical Perceptual and Predictive Analogy-Inference Network for Abstract Visual Reasoning*. ACM International Conference on Multimedia (ACM MM), 2024.
 
 * **W. He**, Y. Yan, J. Ren, R. Bai and X. Jiang, *Multi-View Spectrogram Transformer for Respiratory Sound Classification*. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 8626-8630, 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10445825)] [[Code](https://github.com/wentaoheunnc/MVST)] [[Poster](https://drive.google.com/drive/folders/1nm0wOl78OMhVn8lbMjjNN7XgVOD8ecbX?usp=sharing)]
