@@ -13,9 +13,9 @@ My research interests include but are not limited to:
 
 ## News 
 * [Nov. 2024] I obtain my Ph.D. degree ([thesis](https://research.nottingham.edu.cn/en/studentTheses/deep-perceptual-and-analogical-induction-in-abstract-visual-reaso)) and will join Ningbo University as a faculty member.
-* [Oct. 2024] Two Papers are accepted by PR.
-* [Jul. 2024] One Paper is accepted by MM'24.
-* [Dec. 2023] One Paper is accepted by AAAI'24.
+* [Oct. 2024] Two papers are accepted by PR.
+* [Jul. 2024] One paper is accepted by MM'24.
+* [Dec. 2023] One paper is accepted by AAAI'24.
 * [Nov. 2022] One paper is accepted by AAAI'23.
 * [Apr. 2022] One paper is accepted by ESWA.
 
