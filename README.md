@@ -21,7 +21,7 @@ My research interests include but are not limited to:
 
 ## Publications
 
-* **W. He**, J. Ren, R. Bai and X. Jiang, *Two-stage Rule-induction visual reasoning on RPMs with an application to video prediction*. Pattern Recognition, pp. 111151, DOI: [10.1016/j.patcog.2024.111151](https://doi.org/10.1016/j.patcog.2024.111151), 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324009026)]
+* **W. He**, J. Ren, R. Bai and X. Jiang, *Two-stage Rule-induction visual reasoning on RPMs with an application to video prediction*. Pattern Recognition, 160, pp. 111151, DOI: [10.1016/j.patcog.2024.111151](https://doi.org/10.1016/j.patcog.2024.111151), 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324009026)]
 
 * **W. He**, J. Ren, R. Bai and X. Jiang, *Radar gait recognition using Dual-branch Swin Transformer with Asymmetric Attention Fusion*. Pattern Recognition, 159, pp. 111101, DOI: [10.1016/j.patcog.2024.111101](https://doi.org/10.1016/j.patcog.2024.111101), 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324008525)] [[Data](https://github.com/wentaoheunnc/NTU-RGR)]
 
