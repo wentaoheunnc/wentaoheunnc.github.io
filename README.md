@@ -55,6 +55,7 @@ I serve/served as:
 * Invited reviewer for ICASSP 2024, 2025
 * Invited reviewer for Expert System with Applications (ESWA)
 * Invited reviewer for The Visual Computer (TVCJ)
+* Invited reviewer for Multimedia Systems
 
 ## Teaching Activities
 
