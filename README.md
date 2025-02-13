@@ -9,7 +9,7 @@ My research interests include but are not limited to:
 * Signal processing: Radar gait recognition
 * Operation research: Computational optimization
 
-[[CV]()] [[Email](mailto:scxwh1@nottingham.edu.cn)] [[Google Scholar](https://scholar.google.com/citations?user=1DkLwPQAAAAJ&hl=en)]
+[[CV]()] [[Email](mailto:hewentao@nbu.edu.cn)] [[Google Scholar](https://scholar.google.com/citations?user=1DkLwPQAAAAJ&hl=en)]
 
 ## News 
 * [Nov. 2024] I obtain my Ph.D. degree ([thesis](https://research.nottingham.edu.cn/en/studentTheses/deep-perceptual-and-analogical-induction-in-abstract-visual-reaso)) and will join Ningbo University as a faculty member.
