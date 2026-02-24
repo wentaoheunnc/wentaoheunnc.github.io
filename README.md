@@ -58,6 +58,7 @@ I serve/served as program committee and for invited reviewer for various journal
 
 ## Teaching Activities
 
+* Spring semester, 2025-2026, 107J01H: Object-oriented Programming, NBU
 * Spring semester, 2022-2023, COMP2051: Artificial Intelligence Methods, UNNC
 * Autumn semester, 2022-2023, COMP1038: Programming and Algorithms, UNNC
 * Spring semester, 2021-2023, COMP2047: Introduction to Image Processing, UNNC
