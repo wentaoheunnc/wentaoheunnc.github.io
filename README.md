@@ -12,6 +12,7 @@ My research interests include but are not limited to:
 [[CV]()] [[Email](mailto:hewentao@nbu.edu.cn)] [[Google Scholar](https://scholar.google.com/citations?user=1DkLwPQAAAAJ&hl=en)]
 
 ## News 
+* [Feb. 2026] One paper is accepted by CVPR'26.
 * [Nov. 2024] I obtain my Ph.D. degree ([thesis](https://research.nottingham.edu.cn/en/studentTheses/deep-perceptual-and-analogical-induction-in-abstract-visual-reaso)) and will join Ningbo University as a faculty member.
 * [Oct. 2024] Two papers are accepted by PR.
 * [Jul. 2024] One paper is accepted by MM'24.
@@ -20,6 +21,12 @@ My research interests include but are not limited to:
 * [Apr. 2022] One paper is accepted by ESWA.
 
 ## Publications
+
+* Y. Liao, Y. Cao, Y. Zhang, **W. He**, Y. Xiao, X. Du, Z. Huang, J. S. Dong, *Towards stealthy and effective backdoor attacks on lane detection: A naturalistic data poisoning approach*. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. [[Paper](https://arxiv.org/pdf/2508.15778)][[Project page](https://sites.google.com/view/dbald)]
+
+* B. Chen, L. Guo, H. Fan, **W. He**, R. Zhang, *Soft-Evidence Fused Graph Neural Network for Cancer Driver Gene Identification across Multi-View Biological Graphs*. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 827-832, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/11356790)]
+
+* H. Fan, L. Guo, X. He, B. Chen, **W. He**, Y. Zeng, J. Duan, R. Zhang, *Multi-Modal Timely Pancreatitis Severity Assessment via Hierarchical Evidential Conflictive Learning*. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 6981-6988, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/11356475/)]
 
 * **W. He**, J. Ren, R. Bai and X. Jiang, *Two-stage Rule-induction visual reasoning on RPMs with an application to video prediction*. Pattern Recognition, 160, pp. 111151, DOI: [10.1016/j.patcog.2024.111151](https://doi.org/10.1016/j.patcog.2024.111151), 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324009026)]
 
