@@ -22,7 +22,7 @@ My research interests include but are not limited to:
 
 ## Publications
 
-* Y. Liao, Y. Cao, Y. Zhang, **W. He**, Y. Xiao, X. Du, Z. Huang, J. S. Dong, *Towards stealthy and effective backdoor attacks on lane detection: A naturalistic data poisoning approach*. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. [[Paper](https://arxiv.org/pdf/2508.15778)][[Project page](https://sites.google.com/view/dbald)]
+* Y. Liao, Y. Cao, Y. Zhang, **W. He**, Y. Xiao, X. Du, Z. Huang, J. S. Dong, *Towards stealthy and effective backdoor attacks on lane detection: A naturalistic data poisoning approach*. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. [[Paper](https://arxiv.org/pdf/2508.15778)] [[Project page](https://sites.google.com/view/dbald)]
 
 * B. Chen, L. Guo, H. Fan, **W. He**, R. Zhang, *Soft-Evidence Fused Graph Neural Network for Cancer Driver Gene Identification across Multi-View Biological Graphs*. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 827-832, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/11356790)]
 
