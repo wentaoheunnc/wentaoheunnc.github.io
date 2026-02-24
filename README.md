@@ -54,17 +54,7 @@ My research interests include but are not limited to:
 
 ## Professional Services
 
-I serve/served as: 
-
-* Program Committee for AAAI 2025
-* Invited reviewer for CVPR 2024, 2025
-* Invited reviewer for ICCV 2025
-* Invited reviewer for ACM MM 2024, 2025
-* Invited reviewer for ICASSP 2024, 2025
-* Invited reviewer for IEEE Transactions on Multimedia (TMM)
-* Invited reviewer for Expert System with Applications (ESWA)
-* Invited reviewer for The Visual Computer (TVCJ)
-* Invited reviewer for Multimedia Systems
+I serve/served as program committee and for invited reviewer for various journals and conferences, including: CVPR, ICCV, AAAI, ACM MM, ICASSP, IEEE Transactions on Multimedia (TMM), Expert System with Applications (ESWA), The Visual Computer (TVCJ), Multimedia Tools and Applications, Multimedia Systems, etc. 
 
 ## Teaching Activities
 
