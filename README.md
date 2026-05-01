@@ -12,6 +12,7 @@ My research interests include but are not limited to:
 [[CV]()] [[Email](mailto:hewentao@nbu.edu.cn)] [[Google Scholar](https://scholar.google.com/citations?user=1DkLwPQAAAAJ&hl=en)]
 
 ## News 
+* [May. 2026] One paper is accepted by IJCAI'26 (CCF-B).
 * [Feb. 2026] One paper is accepted by CVPR'26.
 * [Nov. 2024] I obtain my Ph.D. degree ([thesis](https://research.nottingham.edu.cn/en/studentTheses/deep-perceptual-and-analogical-induction-in-abstract-visual-reaso)) and will join Ningbo University as a faculty member.
 * [Oct. 2024] Two papers are accepted by PR.
@@ -21,6 +22,8 @@ My research interests include but are not limited to:
 * [Apr. 2022] One paper is accepted by ESWA.
 
 ## Publications
+
+* B. Chen, **W. He**, L. Guo, G. Cao, R. Zhang, *LogicFusion: Differentiable Logical Rule Learning for Cancer Driver Gene Identification*. International Joint Conference on Aritificial Intelligence (IJCAI), 2026. 
 
 * Y. Liao, Y. Cao, Y. Zhang, **W. He**, Y. Xiao, X. Du, Z. Huang, J. S. Dong, *Towards stealthy and effective backdoor attacks on lane detection: A naturalistic data poisoning approach*. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. [[Paper](https://arxiv.org/pdf/2508.15778)] [[Project page](https://sites.google.com/view/dbald)]
 
