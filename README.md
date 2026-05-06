@@ -23,7 +23,7 @@ My research interests include but are not limited to:
 
 ## Publications
 
-* B. Chen, **W. He**, L. Guo, G. Cao, R. Zhang, *LogicFusion: Differentiable Logical Rule Learning for Cancer Driver Gene Identification*. International Joint Conference on Aritificial Intelligence (IJCAI), 2026. 
+* B. Chen, L. Guo, **W. He**, G. Cao, R. Zhang, *LogicFusion: Differentiable Logical Rule Learning for Cancer Driver Gene Identification*. International Joint Conference on Aritificial Intelligence (IJCAI), 2026. 
 
 * Y. Liao, Y. Cao, Y. Zhang, **W. He**, Y. Xiao, X. Du, Z. Huang, J. S. Dong, *Towards stealthy and effective backdoor attacks on lane detection: A naturalistic data poisoning approach*. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. [[Paper](https://arxiv.org/pdf/2508.15778)] [[Project page](https://sites.google.com/view/dbald)]
 
